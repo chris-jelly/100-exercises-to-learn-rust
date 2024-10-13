@@ -15,8 +15,6 @@ fn factorial(n: u32) -> u32{
     } else {
         return 1
     }
-
-
 }
 
 #[cfg(test)]
